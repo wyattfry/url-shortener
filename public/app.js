@@ -1,3 +1,3 @@
-// (document.getElementById('submit-button').on('click', () => {
-//   console.log('hi');
-// }))();
+(document.getElementById('submit-button').onclick=() => {
+  console.log('hi');
+})();
