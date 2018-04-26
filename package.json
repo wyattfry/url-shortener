@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "url shortener",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyattfry/url-shortener.git"
+  },
+  "author": "Josh & Wyatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyattfry/url-shortener/issues"
+  },
+  "homepage": "https://github.com/wyattfry/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  }
+}
